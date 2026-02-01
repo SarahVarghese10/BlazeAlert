@@ -1,1 +1,1 @@
-HEllo
+This file contains the training script, trained model files, and live prediction script for **BlazeAlert: A Novel Spaciotemporal Deep Convolutional Neural Network Model for Realtime Wildfire Risk Assessment Harnessing Historical Geospatial Data** project.
